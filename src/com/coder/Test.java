@@ -12,5 +12,7 @@ public class Test {
         System.out.println("dev来了");
 
         System.out.println("修复了");
+
+        System.out.println("hello gitHub");
     }
 }
