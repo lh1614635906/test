@@ -14,5 +14,7 @@ public class Test {
         System.out.println("修复了");
 
         System.out.println("hello gitHub");
+
+        System.out.println("hello 你好");
     }
 }
